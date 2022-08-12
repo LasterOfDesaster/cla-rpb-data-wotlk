@@ -5,7 +5,7 @@ Shariava (creator of CLA and RPB spreadsheets) does need our help to get the dat
 
 Current points to work on are:
 - All the WotLk gear with Frost Resistance (including green items)
-- All new spells that come from WotLk (spell IDs, CDs, if itÄs detected via buff or cast, etc)
+- All new spells that come from WotLk (spell IDs, CDs, if it's detected via buff or cast, etc)
 - All the new enchants and those who are suboptimal (if they weren't already in TBC)
 - All the new consumes and those who are not suboptimal (if they weren't already in TBC)
 - Information if consumes are relevant with Wrath and which are not (Scrolls, JC neck, other things)
