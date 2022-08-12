@@ -5,12 +5,12 @@ Shariva (creator of CLA and RPB spreadsheets) does need our help to get the data
 
 Current points to work on are:
 - All the WotLk gear with Frost Resistance (including green items)
-~~- All new spells that come from WotLk (spell IDs, CDs, if it's detected via buff or cast, etc)~~
--> main branch contains new spells learned from tainer (71-80 for all old classes and 1-80 for dk)
+- ~~All new spells that come from WotLk (spell IDs, CDs, if it's detected via buff or cast, etc)~~ -> main branch contains new spells learned from tainer (71-80 for all old classes and 1-80 for dk)
+- Still all the other new spells like talents, talent/item/enchantment procs
 - All the new enchants and those who are suboptimal (if they weren't already in TBC)
 - All the new consumes and those who are not suboptimal (if they weren't already in TBC)
 - Information if consumes are relevant with Wrath and which are not (Scrolls, JC neck, other things)
-~~- All the new gems in WotLk~~ -> main branch contains all the new gem ids
+- ~~All the new gems in WotLk~~ -> main branch contains all the new gem ids
 
 If you want to get into the community you can join the Discord: https://discord.gg/nGvt5zH
 
