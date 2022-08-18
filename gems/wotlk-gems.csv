@@ -1,390 +1,315 @@
-id;color;quality;quality
-36766;r;epic;rare
-36767;b;epic;rare
-39900;r;uncommon;rare
-39905;r;uncommon;rare
-39906;r;uncommon;epic
-39907;r;uncommon;epic
-39908;r;uncommon;uncommon
-39909;r;uncommon;rare
-39910;r;uncommon;uncommon
-39911;r;uncommon;rare
-39912;y;uncommon;epic
-39914;y;uncommon;uncommon
-39915;y;uncommon;rare
-39916;y;uncommon;epic
-39917;y;uncommon;uncommon
-39918;y;uncommon;rare
-39919;b;uncommon;epic
-39920;b;uncommon;uncommon
-39927;b;uncommon;rare
-39932;b;uncommon;epic
-39933;p;uncommon;uncommon
-39934;p;uncommon;rare
-39935;p;uncommon;epic
-39936;p;uncommon;uncommon
-39937;p;uncommon;rare
-39938;p;uncommon;epic
-39939;p;uncommon;common
-39940;p;uncommon;rare
-39941;p;uncommon;common
-39942;p;uncommon;common
-39943;p;uncommon;rare
-39944;p;uncommon;common
-39945;p;uncommon;common
-39946;o;uncommon;common
-39947;o;uncommon;common
-39948;o;uncommon;common
-39949;o;uncommon;common
-39950;o;uncommon;rare
-39951;o;uncommon;common
-39952;o;uncommon;common
-39953;o;uncommon;uncommon
-39954;o;uncommon;uncommon
-39955;o;uncommon;uncommon
-39956;o;uncommon;uncommon
-39957;o;uncommon;uncommon
-39958;o;uncommon;uncommon
-39959;o;uncommon;uncommon
-39960;o;uncommon;uncommon
-39961;o;uncommon;uncommon
-39962;o;uncommon;uncommon
-39963;o;uncommon;uncommon
-39964;o;uncommon;uncommon
-39965;o;uncommon;uncommon
-39966;o;uncommon;uncommon
-39967;o;uncommon;uncommon
-39968;g;uncommon;uncommon
-39974;g;uncommon;uncommon
-39975;g;uncommon;uncommon
-39976;g;uncommon;uncommon
-39977;g;uncommon;uncommon
-39978;g;uncommon;uncommon
-39979;g;uncommon;uncommon
-39980;g;uncommon;uncommon
-39981;g;uncommon;uncommon
-39982;g;uncommon;uncommon
-39983;g;uncommon;uncommon
-39984;g;uncommon;uncommon
-39985;g;uncommon;uncommon
-39986;g;uncommon;uncommon
-39988;g;uncommon;uncommon
-39989;g;uncommon;uncommon
-39990;g;uncommon;uncommon
-39991;g;uncommon;uncommon
-39992;g;uncommon;uncommon
-39996;r;rare;uncommon
-39997;r;rare;uncommon
-39998;r;rare;uncommon
-39999;r;rare;uncommon
-40000;r;rare;uncommon
-40001;r;rare;uncommon
-40002;r;rare;uncommon
-40003;r;rare;uncommon
-40008;b;rare;uncommon
-40009;b;rare;uncommon
-40010;b;rare;uncommon
-40011;b;rare;uncommon
-40012;y;rare;uncommon
-40013;y;rare;uncommon
-40014;y;rare;uncommon
-40015;y;rare;uncommon
-40016;y;rare;uncommon
-40017;y;rare;uncommon
-40022;p;rare;uncommon
-40023;p;rare;uncommon
-40024;p;rare;uncommon
-40025;p;rare;uncommon
-40026;p;rare;uncommon
-40027;p;rare;uncommon
-40028;p;rare;uncommon
-40029;p;rare;uncommon
-40030;p;rare;uncommon
-40031;p;rare;uncommon
-40032;p;rare;uncommon
-40033;p;rare;uncommon
-40034;p;rare;uncommon
-40037;o;rare;uncommon
-40038;o;rare;uncommon
-40039;o;rare;uncommon
-40040;o;rare;uncommon
-40041;o;rare;uncommon
-40043;o;rare;uncommon
-40044;o;rare;uncommon
-40045;o;rare;rare
-40046;o;rare;rare
-40047;o;rare;rare
-40048;o;rare;rare
-40049;o;rare;rare
-40050;o;rare;rare
-40051;o;rare;rare
-40052;o;rare;rare
-40053;o;rare;rare
-40054;o;rare;rare
-40055;o;rare;rare
-40056;o;rare;rare
-40057;o;rare;rare
-40058;o;rare;rare
-40059;o;rare;rare
-40085;g;rare;rare
-40086;g;rare;rare
-40088;g;rare;rare
-40089;g;rare;rare
-40090;g;rare;rare
-40091;g;rare;rare
-40092;g;rare;rare
-40094;g;rare;rare
-40095;g;rare;rare
-40096;g;rare;rare
-40098;g;rare;rare
-40099;g;rare;rare
-40100;g;rare;rare
-40101;g;rare;rare
-40102;g;rare;rare
-40103;g;rare;rare
-40104;g;rare;rare
-40105;g;rare;rare
-40106;g;rare;rare
-40111;r;epic;rare
-40112;r;epic;rare
-40113;r;epic;rare
-40114;r;epic;rare
-40115;r;epic;rare
-40116;r;epic;rare
-40117;r;epic;rare
-40118;r;epic;rare
-40119;b;epic;rare
-40120;b;epic;rare
-40121;b;epic;rare
-40122;b;epic;rare
-40123;y;epic;rare
-40124;y;epic;rare
-40125;y;epic;rare
-40126;y;epic;rare
-40127;y;epic;rare
-40128;y;epic;rare
-40129;p;epic;rare
-40130;p;epic;rare
-40131;p;epic;rare
-40132;p;epic;rare
-40133;p;epic;rare
-40134;p;epic;rare
-40135;p;epic;rare
-40136;p;epic;rare
-40137;p;epic;rare
-40138;p;epic;rare
-40139;p;epic;rare
-40140;p;epic;rare
-40141;p;epic;rare
-40142;o;epic;rare
-40143;o;epic;rare
-40144;o;epic;rare
-40145;o;epic;rare
-40146;o;epic;rare
-40147;o;epic;rare
-40148;o;epic;rare
-40149;o;epic;epic
-40150;o;epic;epic
-40151;o;epic;epic
-40152;o;epic;epic
-40153;o;epic;epic
-40154;o;epic;epic
-40155;o;epic;epic
-40156;o;epic;epic
-40157;o;epic;epic
-40158;o;epic;epic
-40159;o;epic;epic
-40160;o;epic;epic
-40161;o;epic;epic
-40162;o;epic;epic
-40163;o;epic;epic
-40164;g;epic;epic
-40165;g;epic;epic
-40166;g;epic;epic
-40167;g;epic;epic
-40168;g;epic;epic
-40169;g;epic;epic
-40170;g;epic;epic
-40171;g;epic;epic
-40172;g;epic;epic
-40173;g;epic;epic
-40174;g;epic;epic
-40175;g;epic;epic
-40176;g;epic;epic
-40177;g;epic;epic
-40178;g;epic;epic
-40179;g;epic;epic
-40180;g;epic;epic
-40181;g;epic;epic
-40182;g;epic;epic
-41429;o;uncommon;epic
-41432;r;uncommon;epic
-41433;r;uncommon;epic
-41434;r;uncommon;epic
-41435;r;uncommon;epic
-41436;r;uncommon;epic
-41437;r;uncommon;epic
-41438;r;uncommon;epic
-41439;r;uncommon;epic
-41440;b;uncommon;epic
-41441;b;uncommon;epic
-41442;b;uncommon;epic
-41443;b;uncommon;epic
-41444;y;uncommon;epic
-41445;y;uncommon;epic
-41446;y;uncommon;epic
-41447;y;uncommon;epic
-41448;y;uncommon;epic
-41449;y;uncommon;epic
-41450;p;uncommon;epic
-41451;p;uncommon;epic
-41452;p;uncommon;epic
-41453;p;uncommon;epic
-41454;p;uncommon;epic
-41455;p;uncommon;epic
-41456;p;uncommon;epic
-41457;p;uncommon;epic
-41458;p;uncommon;epic
-41459;p;uncommon;epic
-41460;p;uncommon;epic
-41461;p;uncommon;epic
-41462;p;uncommon;epic
-41463;g;uncommon;epic
-41464;g;uncommon;epic
-41465;g;uncommon;epic
-41466;g;uncommon;epic
-41467;g;uncommon;epic
-41468;g;uncommon;epic
-41469;g;uncommon;rare
-41470;g;uncommon;rare
-41471;g;uncommon;rare
-41472;g;uncommon;rare
-41473;g;uncommon;rare
-41474;g;uncommon;rare
-41475;g;uncommon;rare
-41476;g;uncommon;rare
-41477;g;uncommon;rare
-41478;g;uncommon;rare
-41479;g;uncommon;rare
-41480;g;uncommon;rare
-41481;g;uncommon;rare
-41482;o;uncommon;rare
-41483;o;uncommon;rare
-41484;o;uncommon;rare
-41485;o;uncommon;rare
-41486;o;uncommon;rare
-41487;o;uncommon;rare
-41488;o;uncommon;rare
-41489;o;uncommon;rare
-41490;o;uncommon;rare
-41491;o;uncommon;rare
-41492;o;uncommon;rare
-41493;o;uncommon;uncommon
-41494;o;uncommon;uncommon
-41495;o;uncommon;uncommon
-41496;o;uncommon;uncommon
-41497;o;uncommon;uncommon
-41498;o;uncommon;uncommon
-41499;o;uncommon;uncommon
-41500;o;uncommon;uncommon
-41501;o;uncommon;uncommon
-41502;o;uncommon;uncommon
-42142;r;epic;uncommon
-42143;r;epic;uncommon
-42144;r;epic;uncommon
-42145;b;epic;uncommon
-42146;b;epic;uncommon
-42148;y;epic;uncommon
-42149;y;epic;uncommon
-42150;y;epic;uncommon
-42151;r;epic;uncommon
-42152;r;epic;uncommon
-42153;r;epic;uncommon
-42154;r;epic;uncommon
-42155;b;epic;uncommon
-42156;y;epic;uncommon
-42157;y;epic;uncommon
-42158;y;epic;uncommon
-44066;y;epic;uncommon
-45862;r;epic;uncommon
-45879;r;epic;uncommon
-45880;b;epic;uncommon
-45881;b;epic;uncommon
-45882;y;epic;uncommon
-45883;r;epic;uncommon
-45987;y;epic;uncommon
-41465;Perfekter geladener Nephrit;g;uncommon
-41466;Perfekter kraftvoller Nephrit;g;uncommon
-41467;Perfekter aufwendiger Nephrit;g;uncommon
-41468;Perfekter gezackter Nephrit;g;uncommon
-41469;Perfekter flackernder Nephrit;g;uncommon
-41470;Perfekter nebliger Nephrit;g;uncommon
-41471;Perfekter opaker Nephrit;g;uncommon
-41472;Perfekter strahlender Nephrit;g;uncommon
-41473;Perfekter Nephrit des Sehers;g;uncommon
-41474;Perfekter zerschmetterter Nephrit;g;uncommon
-41475;Perfekter feuriger Nephrit;g;uncommon
-41476;Perfekter beständiger Nephrit;g;uncommon
-41477;Perfekter gesplitterter Nephrit;g;uncommon
-41478;Perfekter spröder Nephrit;g;uncommon
-41479;Perfekter zeitloser Nephrit;g;uncommon
-41480;Perfekter trüber Nephrit;g;uncommon
-41481;Perfekter klarer Nephrit;g;uncommon
-41482;Perfekter akkurater Riesencitrin;o;uncommon
-41483;Perfekter Riesencitrin des Champions;o;uncommon
-41484;Perfekter tödlicher Riesencitrin;o;uncommon
-41485;Perfekter gewandter Riesencitrin;o;uncommon
-41486;Perfekter solider Riesencitrin;o;uncommon
-41487;Perfekter machterfüllter Riesencitrin;o;uncommon
-41488;Perfekter geätzter Riesencitrin;o;uncommon
-41489;Perfekter wilder Riesencitrin;o;uncommon
-41490;Perfekter gleißender Riesencitrin;o;uncommon
-41491;Perfekter glitzernder Riesencitrin;o;uncommon
-41492;Perfekter gravierter Riesencitrin;o;uncommon
-41493;Perfekter transparenter Riesencitrin;o;uncommon
-41494;Perfekter glänzender Riesencitrin;o;uncommon
-41495;Perfekter mächtiger Riesencitrin;o;uncommon
-41496;Perfekter makelloser Riesencitrin;o;uncommon
-41497;Perfekter tollkühner Riesencitrin;o;uncommon
-41498;Perfekter resoluter Riesencitrin;o;uncommon
-41499;Perfekter prunkvoller Riesencitrin;o;uncommon
-41500;Perfekter bruchfester Riesencitrin;o;uncommon
-41501;Perfekter reiner Riesencitrin;o;uncommon
-41502;Perfekter verschleierter Riesencitrin;o;uncommon
-42142;Klobiges Drachenauge;r;epic
-42143;Feingeschliffenes Drachenauge;r;epic
-42144;Runenbeschriebenes Drachenauge;r;epic
-42145;Funkelndes Drachenauge;b;epic
-42146;Irisierendes Drachenauge;b;epic
-42148;Glänzendes Drachenauge;y;epic
-42149;Glattes Drachenauge;y;epic
-42150;Spiegelndes Drachenauge;y;epic
-42151;Fragiles Drachenauge;r;epic
-42152;Scheinendes Drachenauge;r;epic
-42153;Frakturiertes Drachenauge;r;epic
-42154;Präzises Drachenauge;r;epic
-42155;Stürmisches Drachenauge;b;epic
-42156;Massives Drachenauge;y;epic
-42157;Kompaktes Drachenauge;y;epic
-42158;Mystisches Drachenauge;y;epic
-42225;Drachenauge;inv_jewelcrafting_dragonseye01;rare
-42701;Verzauberte Perle;inv_misc_gem_pearl_10;uncommon
-42702;Verzauberte Träne;inv_misc_gem_pearl_12;rare
-44066;Kharmaas Anmut;y;epic
-44076;Flüchtiger Sternenlichtdiamant;inv_jewelcrafting_icediamond_02;rare
-44078;Nimmermüder Sternenlichtdiamant;inv_jewelcrafting_icediamond_02;rare
-44081;Rätselhafter Sternenlichtdiamant;inv_jewelcrafting_icediamond_02;rare
-44082;Apathischer Sternenlichtdiamant;inv_jewelcrafting_icediamond_02;rare
-44084;Einsamer Sternenlichtdiamant;inv_jewelcrafting_icediamond_02;rare
-44087;Hartnäckiger Erdspalterdiamant;inv_jewelcrafting_shadowspirit_02;rare
-44088;Mächtiger Erdspalterdiamant;inv_jewelcrafting_shadowspirit_02;rare
-44089;Energischer Erdspalterdiamant;inv_jewelcrafting_shadowspirit_02;rare
-45054;Prismatischer schwarzer Diamant;inv_misc_gem_01;uncommon
-45862;Klobiges Sturmjuwel;r;epic
-45879;Feingeschliffenes Sturmjuwel;r;epic
-45880;Gediegenes Sturmjuwel;b;epic
-45881;Funkelndes Sturmjuwel;b;epic
-45882;Glänzendes Sturmjuwel;y;epic
-45883;Runenverziertes Sturmjuwel;r;epic
-45987;Starres Sturmjuwel;y;epic
-49110;Alptraumträne;inv_misc_gem_pearl_12;epic
+id;farbe;quality
+36766;r;epic
+36767;b;epic
+39900;r;uncommon
+39905;r;uncommon
+39906;r;uncommon
+39907;r;uncommon
+39908;r;uncommon
+39909;r;uncommon
+39910;r;uncommon
+39911;r;uncommon
+39912;y;uncommon
+39914;y;uncommon
+39915;y;uncommon
+39916;y;uncommon
+39917;y;uncommon
+39918;y;uncommon
+39919;b;uncommon
+39920;b;uncommon
+39927;b;uncommon
+39932;b;uncommon
+39933;p;uncommon
+39934;p;uncommon
+39935;p;uncommon
+39936;p;uncommon
+39937;p;uncommon
+39938;p;uncommon
+39939;p;uncommon
+39940;p;uncommon
+39941;p;uncommon
+39942;p;uncommon
+39943;p;uncommon
+39944;p;uncommon
+39945;p;uncommon
+39946;o;uncommon
+39947;o;uncommon
+39948;o;uncommon
+39949;o;uncommon
+39950;o;uncommon
+39951;o;uncommon
+39952;o;uncommon
+39953;o;uncommon
+39954;o;uncommon
+39955;o;uncommon
+39956;o;uncommon
+39957;o;uncommon
+39958;o;uncommon
+39959;o;uncommon
+39960;o;uncommon
+39961;o;uncommon
+39962;o;uncommon
+39963;o;uncommon
+39964;o;uncommon
+39965;o;uncommon
+39966;o;uncommon
+39967;o;uncommon
+39968;g;uncommon
+39974;g;uncommon
+39975;g;uncommon
+39976;g;uncommon
+39977;g;uncommon
+39978;g;uncommon
+39979;g;uncommon
+39980;g;uncommon
+39981;g;uncommon
+39982;g;uncommon
+39983;g;uncommon
+39984;g;uncommon
+39985;g;uncommon
+39986;g;uncommon
+39988;g;uncommon
+39989;g;uncommon
+39990;g;uncommon
+39991;g;uncommon
+39992;g;uncommon
+39996;r;rare
+39997;r;rare
+39998;r;rare
+39999;r;rare
+40000;r;rare
+40001;r;rare
+40002;r;rare
+40003;r;rare
+40008;b;rare
+40009;b;rare
+40010;b;rare
+40011;b;rare
+40012;y;rare
+40013;y;rare
+40014;y;rare
+40015;y;rare
+40016;y;rare
+40017;y;rare
+40022;p;rare
+40023;p;rare
+40024;p;rare
+40025;p;rare
+40026;p;rare
+40027;p;rare
+40028;p;rare
+40029;p;rare
+40030;p;rare
+40031;p;rare
+40032;p;rare
+40033;p;rare
+40034;p;rare
+40037;o;rare
+40038;o;rare
+40039;o;rare
+40040;o;rare
+40041;o;rare
+40043;o;rare
+40044;o;rare
+40045;o;rare
+40046;o;rare
+40047;o;rare
+40048;o;rare
+40049;o;rare
+40050;o;rare
+40051;o;rare
+40052;o;rare
+40053;o;rare
+40054;o;rare
+40055;o;rare
+40056;o;rare
+40057;o;rare
+40058;o;rare
+40059;o;rare
+40085;g;rare
+40086;g;rare
+40088;g;rare
+40089;g;rare
+40090;g;rare
+40091;g;rare
+40092;g;rare
+40094;g;rare
+40095;g;rare
+40096;g;rare
+40098;g;rare
+40099;g;rare
+40100;g;rare
+40101;g;rare
+40102;g;rare
+40103;g;rare
+40104;g;rare
+40105;g;rare
+40106;g;rare
+40111;r;epic
+40112;r;epic
+40113;r;epic
+40114;r;epic
+40115;r;epic
+40116;r;epic
+40117;r;epic
+40118;r;epic
+40119;b;epic
+40120;b;epic
+40121;b;epic
+40122;b;epic
+40123;y;epic
+40124;y;epic
+40125;y;epic
+40126;y;epic
+40127;y;epic
+40128;y;epic
+40129;p;epic
+40130;p;epic
+40131;p;epic
+40132;p;epic
+40133;p;epic
+40134;p;epic
+40135;p;epic
+40136;p;epic
+40137;p;epic
+40138;p;epic
+40139;p;epic
+40140;p;epic
+40141;p;epic
+40142;o;epic
+40143;o;epic
+40144;o;epic
+40145;o;epic
+40146;o;epic
+40147;o;epic
+40148;o;epic
+40149;o;epic
+40150;o;epic
+40151;o;epic
+40152;o;epic
+40153;o;epic
+40154;o;epic
+40155;o;epic
+40156;o;epic
+40157;o;epic
+40158;o;epic
+40159;o;epic
+40160;o;epic
+40161;o;epic
+40162;o;epic
+40163;o;epic
+40164;g;epic
+40165;g;epic
+40166;g;epic
+40167;g;epic
+40168;g;epic
+40169;g;epic
+40170;g;epic
+40171;g;epic
+40172;g;epic
+40173;g;epic
+40174;g;epic
+40175;g;epic
+40176;g;epic
+40177;g;epic
+40178;g;epic
+40179;g;epic
+40180;g;epic
+40181;g;epic
+40182;g;epic
+41429;o;uncommon
+41432;r;uncommon
+41433;r;uncommon
+41434;r;uncommon
+41435;r;uncommon
+41436;r;uncommon
+41437;r;uncommon
+41438;r;uncommon
+41439;r;uncommon
+41440;b;uncommon
+41441;b;uncommon
+41442;b;uncommon
+41443;b;uncommon
+41444;y;uncommon
+41445;y;uncommon
+41446;y;uncommon
+41447;y;uncommon
+41448;y;uncommon
+41449;y;uncommon
+41450;p;uncommon
+41451;p;uncommon
+41452;p;uncommon
+41453;p;uncommon
+41454;p;uncommon
+41455;p;uncommon
+41456;p;uncommon
+41457;p;uncommon
+41458;p;uncommon
+41459;p;uncommon
+41460;p;uncommon
+41461;p;uncommon
+41462;p;uncommon
+41463;g;uncommon
+41464;g;uncommon
+41465;g;uncommon
+41466;g;uncommon
+41467;g;uncommon
+41468;g;uncommon
+41469;g;uncommon
+41470;g;uncommon
+41471;g;uncommon
+41472;g;uncommon
+41473;g;uncommon
+41474;g;uncommon
+41475;g;uncommon
+41476;g;uncommon
+41477;g;uncommon
+41478;g;uncommon
+41479;g;uncommon
+41480;g;uncommon
+41481;g;uncommon
+41482;o;uncommon
+41483;o;uncommon
+41484;o;uncommon
+41485;o;uncommon
+41486;o;uncommon
+41487;o;uncommon
+41488;o;uncommon
+41489;o;uncommon
+41490;o;uncommon
+41491;o;uncommon
+41492;o;uncommon
+41493;o;uncommon
+41494;o;uncommon
+41495;o;uncommon
+41496;o;uncommon
+41497;o;uncommon
+41498;o;uncommon
+41499;o;uncommon
+41500;o;uncommon
+41501;o;uncommon
+41502;o;uncommon
+42142;r;epic
+42143;r;epic
+42144;r;epic
+42145;b;epic
+42146;b;epic
+42148;y;epic
+42149;y;epic
+42150;y;epic
+42151;r;epic
+42152;r;epic
+42153;r;epic
+42154;r;epic
+42155;b;epic
+42156;y;epic
+42157;y;epic
+42158;y;epic
+44066;y;epic
+45862;r;epic
+45879;r;epic
+45880;b;epic
+45881;b;epic
+45882;y;epic
+45883;r;epic
+45987;y;epic
