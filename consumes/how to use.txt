@@ -1,0 +1,18 @@
+Greetings!
+
+This folder is used to collect data for if a consume (food+drink) is good/bad/ok for a class in WotLk.
+As you've read in the README.MD file this whole project is to support Shariva and his CLA+RPB spreadsheet.
+
+Since I am no master of a class but rather just an enjoyer of certains ones I need your help. 
+If you think you know enough about your class then feel free to make a PR and issue a change. 
+
+This spreadsheet just contains a list of ItemIds, enUs localized name of the item, 3 columns for if it's good or not and other (which stat is increased by consuming)
+What I need is a CSV file that has an X in the appropriate column to indicate if this food is either good, bad or ok for that class in WotLk.
+
+For example lets take the food Blackened Dragonfin (id 42999). This item gives you a buff for 40 Agi. 
+If you know this item is good for you class then make an X in the good column.
+The item Firecracker Salmon (id 34767) offers 46 Spelldamage. If you know this item is bad for your class then check the "bad" column.
+
+If you have any questions feel free to ask either on Github or hit with a DM on Discord: Radinator#7041
+
+Thank you for your aid!
