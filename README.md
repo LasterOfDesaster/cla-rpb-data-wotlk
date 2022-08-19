@@ -10,7 +10,7 @@ Current points to work on are:
 - All the new enchants and those who are suboptimal (if they weren't already in TBC)
 - All the new consumes and those who are not suboptimal (if they weren't already in TBC)
 - Information if consumes are relevant with Wrath and which are not (Scrolls, JC neck, other things)
-- ~~All the new gems in WotLk~~ -> main branch contains all the new gem ids but the gem colors are missing (next update)
+- ~~All the new gems in WotLk -> main branch contains all the new gem ids but the gem colors are missing (next update)~~
 
 If you want to get into the community you can join the Discord: https://discord.gg/nGvt5zH
 
